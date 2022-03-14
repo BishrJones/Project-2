@@ -1,8 +1,23 @@
-# Project-2
+# Project-2 (jabberstock)
 
 ## Description:
 
-A stock and crypto application that allows you to research investments as well as have discourse with the community on said investments.
+A stock application that allows you to research investments as well as have discourse with the community on said investments.
+
+---
+
+## technology Used:
+
+- bcryptjs
+- express
+- dotenv
+- method-override
+- morgan
+- mongoose
+- liquid-express-views
+- css
+- javascript
+- api: https://www.stockdata.org/
 
 ---
 
